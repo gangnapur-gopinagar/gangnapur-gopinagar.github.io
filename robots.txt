@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amaderelaka.github.io/our-locality/sitemap.xml
+Sitemap: https://gangnapur-gopinagar.github.io/sitemap.xml

@@ -1,4 +1,4 @@
-# Our locality — a community website
+# Gangnapur-Gopinagar, Nadia (গাংনাপুর-গোপীনগর, নদীয়া): a community heritage website
 
 A simple, hand-editable static website for a community history and information project covering Gangnapur, Gopinagar, and neighbouring villages in Nadia district, West Bengal. Built to run for free on GitHub Pages.
 
